@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <h1>Know your rights!</h1>
-      <h2>Flip through your flashcards to learn about the rights granted to
+      <h2>Flip through the flashcards to learn about your rights as granted to
         you by the Bill of Rights and the U.S. Constitution.
       </h2>
       <p>Count: {count}</p>
