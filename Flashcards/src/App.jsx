@@ -22,6 +22,7 @@ function App() {
       <div className = "button-wrapper">
         <button className="button-move-left">Left Arrow</button>
         <button className="button-move-right">Right Arrow</button>
+        <p>testing</p>
       </div>
     </>
   )
