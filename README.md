@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://imgur.com/a/HGem0TF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+!(MyProject2Gif)[https://imgur.com/a/HGem0TF]
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LICEcap
